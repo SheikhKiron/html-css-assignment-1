@@ -1,0 +1,63 @@
+body{
+  background-color: #F5F8FF;
+}
+/*========================== google fonts ===============================*/
+.inter{
+  font-family: "Inter", sans-serif;
+}
+.font-r{
+  font-family: "Raleway", sans-serif;
+}
+
+/*=========================== Common Style ================================*/
+.btn{
+  background-color: #4E47FF;
+  color: #fff;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  padding: 12px 36px;
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
+.primary-color{
+  color: #4E47FF;
+}
+
+/*=============================== header ============================*/
+header{
+  background-image: url(images/Hero-bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 660px;
+  margin-top: -19px;
+}
+
+/* ========================== navbar =============================== */
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 150px;
+  align-items: center;
+}
+.logo{
+ font-size: 34px; 
+ font-weight: 800;
+}
+
+/* =============================== hero ================================= */
+.hero{
+  text-align: center;
+}
+.hero h1{
+  margin-top: 180px;
+  font-size: 65px;
+  font-weight: bold;
+  color: #252432;
+}
