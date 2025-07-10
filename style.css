@@ -61,3 +61,26 @@ header{
   font-weight: bold;
   color: #252432;
 }
+
+/* ============================= Action-Section ========================== */
+.action-section{
+  height: 530px;
+  margin:-30px 159px 30px 116px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  }
+.left-side h2{
+  color: #252432;
+  font-size: 46px;
+  font-weight: bold;
+} 
+.left-side p{
+  font-size: 24px;
+  color: #252432;
+  font-weight: 400;
+  width: 480px;
+}
+.right-side img{
+  border-radius: 48px;
+}
