@@ -195,3 +195,59 @@ header{
 border-radius: 48px;
 margin-top: 20px;
 }
+
+/* ========================== Touch Section ============================ */
+.touch{
+  height: 640px;
+ 
+}
+.touch-parnent{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px 150px;
+}
+
+.section-title{
+  font-size: 84px;
+  font-weight: bold;
+  width: 536px;
+}
+.form{
+  margin-top: 90px;
+}
+.form label,input,textarea{
+  display: block;
+}
+.form label{}
+.form input{
+  height: 41px;
+  width: 370px;
+  outline: none;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px #f9f9f9;
+  font-size: 17px;
+  font-weight: 300;
+}
+textarea{
+  height: 135px;
+  width: 370px;
+  outline: none;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px #f9f9f9;
+  font-size: 17px;
+  font-weight: 300;
+}
+.form label{
+  margin-top: 18px;
+  margin: 10px;
+  font-size: 18px;
+}
+.bb-1{
+  margin-top: 20px;
+  width: 391px;
+}
