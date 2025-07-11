@@ -23,6 +23,12 @@ body{
   border: none;
   padding: 12px 36px;
 }
+.btn:hover{
+  background-color: rgb(12, 120, 5);
+  transition: 1s ease-in-out;
+  padding: 14px 38px;
+  cursor: pointer;
+}
 a{
   text-decoration: none;
   color: #fff;
