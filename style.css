@@ -121,8 +121,8 @@ header{
   margin-top: -55px;
 }
 
-/* ========================= user-section ============================= */
-.testimonial-section{
+/* ======================= Users Feedback Section ==================== */
+.user-feedback-section{
   height: 450px;
 }
 .ts-heading{
@@ -168,4 +168,30 @@ header{
   color: #B3B3B3;
   font-weight: 500;
   margin-top: -20px;
+}
+
+/* =========================== focus section ========================== */
+.focus{
+  height: 740px;
+}
+
+.focus-content{
+  background-color: #fff;
+  height: 680px;
+  margin: 50px 150px;
+  border-radius: 14px;
+  text-align: center;
+  padding: 10px;
+}
+.focus-content h1{
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 70px;
+}
+.focus-content p{
+  margin-top: -13px;
+}
+.focus-content img{
+border-radius: 48px;
+margin-top: 20px;
 }
